@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/57106474/203849591-11a85ce4-77f0-4caa-b4d2-cec429f72fa2.png)
 
 ### Introduction
-This is an implementation Logistic Regression with gradient descent implementation, used to perform sentiment analysis on IMDB reviews. Given a review, our task is to predict whether the person likes or dislikes the film, as well as determine the most important words in our analysis.
+Logistic Regression with gradient descent implementation, used to perform sentiment analysis on IMDB reviews. Given a review, our task is to predict whether the person likes or dislikes the film, as well as determine the most important words in our analysis.
 
 ### Dataset
 The dataset, provided by Stanford University, is a set of files that contain IMDB reviews of movies, accompanied by their rating scores appended to the filenames. There is also a vocabulary file provided which is a list of English words that are mentioned.
