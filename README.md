@@ -1,7 +1,5 @@
 # IMDB Review Sentiment Prediction
 
-![image](https://user-images.githubusercontent.com/57106474/203849591-11a85ce4-77f0-4caa-b4d2-cec429f72fa2.png)
-
 ### Introduction
 Logistic Regression with gradient descent implementation, used to perform sentiment analysis on IMDB reviews. Given a review, our task is to predict whether the person likes or dislikes the film, as well as determine the most important words in our analysis.
 
